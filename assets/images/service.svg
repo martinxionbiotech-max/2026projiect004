@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 680'>
+  <rect width='1000' height='680' fill='#f3f4f6'/>
+  <rect x='140' y='110' width='720' height='460' rx='24' fill='#1f2937'/>
+  <rect x='200' y='190' width='600' height='36' rx='8' fill='#d1d5db'/>
+  <rect x='200' y='250' width='520' height='28' rx='8' fill='#9ca3af'/>
+  <rect x='200' y='305' width='560' height='28' rx='8' fill='#9ca3af'/>
+  <rect x='200' y='360' width='440' height='28' rx='8' fill='#9ca3af'/>
+  <text x='500' y='620' text-anchor='middle' font-family='Arial' font-size='38' fill='#111827'>Calibration & After-sales Service</text>
+</svg>

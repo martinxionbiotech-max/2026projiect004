@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 680'>
+  <rect width='1000' height='680' fill='#fff7ed'/>
+  <rect x='160' y='210' width='680' height='280' rx='20' fill='#d97706'/>
+  <circle cx='300' cy='350' r='82' fill='#fed7aa'/>
+  <circle cx='500' cy='350' r='82' fill='#fdba74'/>
+  <circle cx='700' cy='350' r='82' fill='#fb923c'/>
+  <text x='500' y='620' text-anchor='middle' font-family='Arial' font-size='38' fill='#7c2d12'>Soil & Aggregate Analyzer</text>
+</svg>

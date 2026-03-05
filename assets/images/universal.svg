@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 680'>
+  <rect width='1000' height='680' fill='#edf8f8'/>
+  <rect x='360' y='120' width='280' height='420' rx='14' fill='#0e7f88'/>
+  <rect x='260' y='190' width='480' height='40' rx='10' fill='#bde9ea'/>
+  <rect x='260' y='430' width='480' height='40' rx='10' fill='#bde9ea'/>
+  <line x1='500' y1='230' x2='500' y2='430' stroke='#fff' stroke-width='14'/>
+  <text x='500' y='620' text-anchor='middle' font-family='Arial' font-size='38' fill='#114a52'>Universal Testing System</text>
+</svg>

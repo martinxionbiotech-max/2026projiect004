@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 720'>
+  <defs>
+    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#0a3f8f'/>
+      <stop offset='100%' stop-color='#1d78db'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='720' fill='url(#g)'/>
+  <rect x='90' y='120' width='1020' height='480' rx='20' fill='#ffffff' opacity='0.12'/>
+  <g fill='#fff' opacity='0.95'>
+    <circle cx='280' cy='280' r='90'/>
+    <rect x='450' y='220' width='420' height='44' rx='10'/>
+    <rect x='450' y='292' width='330' height='32' rx='8'/>
+    <rect x='450' y='352' width='280' height='32' rx='8'/>
+    <rect x='220' y='420' width='720' height='18' rx='8' opacity='0.65'/>
+  </g>
+  <text x='600' y='640' text-anchor='middle' font-family='Arial, sans-serif' font-size='44' fill='white'>Birds Testing — Industrial Lab Solutions</text>
+</svg>

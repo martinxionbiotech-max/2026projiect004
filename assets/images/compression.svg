@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 680'>
+  <rect width='1000' height='680' fill='#eef4ff'/>
+  <rect x='220' y='120' width='560' height='420' rx='18' fill='#1f5fb8'/>
+  <rect x='290' y='180' width='420' height='60' rx='8' fill='#fff'/>
+  <rect x='290' y='430' width='420' height='60' rx='8' fill='#fff'/>
+  <rect x='420' y='250' width='160' height='180' rx='8' fill='#b7cdf3'/>
+  <text x='500' y='620' text-anchor='middle' font-family='Arial' font-size='38' fill='#15325f'>Compression Testing Machine</text>
+</svg>
