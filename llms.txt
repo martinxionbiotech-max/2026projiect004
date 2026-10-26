@@ -1,0 +1,15 @@
+# Birds Testing — B2B Testing Equipment
+
+> Testing equipment and technical services for laboratories and industrial quality teams: compression testers, soil testing equipment and universal testing machines.
+
+## Pages
+- [Home](index.html): Reliable testing equipment for laboratories and industrial quality teams.
+- [Products](products.html): Compression, soil and universal testing machines.
+- [Compression Testing](product-compression.html): Compression testers and their applications.
+- [Soil Testing](product-soil.html): Soil testing equipment for geotechnical and agricultural work.
+- [Universal Testing](product-universal.html): Universal testing machines for tensile, compression and flexural tests.
+- [Solutions](solutions.html): Application-based equipment selection.
+- [About](about.html) · [Contact](contact.html)
+
+## Notes
+- Specifications are confirmed per quotation; configurations vary by material and standard.
